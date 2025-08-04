@@ -1,0 +1,920 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node COLOR="#000000" CREATED="1748590748854" ID="ID_1760729567" MODIFIED="1748845522581" TEXT="Dimensions">
+<font NAME="SansSerif" SIZE="20"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<node COLOR="#0033ff" CREATED="1748590756337" FOLDED="true" ID="ID_1778353230" MODIFIED="1748870009352" POSITION="right" TEXT="Fromagie">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1748590876430" ID="ID_1046905814" MODIFIED="1748593107949" TEXT="St agur">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748590881780" FOLDED="true" ID="ID_163902910" MODIFIED="1748866620286" TEXT="Histoire avec Z&#xe9;bral">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748601038365" ID="ID_88850698" MODIFIED="1748601046856" TEXT="Degustation Gate">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748605012600" ID="ID_1557377906" MODIFIED="1748866593478" TEXT="Z&#xe9;blar vomi apr&#xe8;s avoir mang&#xe9; un bleu hobbit trop fort  "/>
+<node COLOR="#111111" CREATED="1748605029178" ID="ID_532777699" MODIFIED="1748605037349" TEXT="les hobbits veulent se venger"/>
+</node>
+<node COLOR="#990000" CREATED="1748605038241" ID="ID_1870300874" MODIFIED="1748605059227" TEXT="Ils fouillent dans les archives de Z&#xe9;blar et modifient une recette">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748605059624" ID="ID_478241872" MODIFIED="1748605068182" TEXT="Invoquent un El&#xe9;menthal">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748605068613" ID="ID_1094937890" MODIFIED="1748605126776" TEXT="L&apos;El&#xe9;menthal, serviteur de St Agur, divinit&#xe9; du fromage et des produits laitiers les &#xe9;coutent">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748605127275" ID="ID_1475807958" MODIFIED="1748605149108" TEXT="St Agur lance une &quot;croisade&quot; contre Z&#xe9;bral">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748605531002" ID="ID_1871240792" MODIFIED="1748605544024" TEXT="Z&#xe9;bral s&apos;enfuie &#xe0; Sombrelys">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748605580970" ID="ID_1582029876" MODIFIED="1748605590692" TEXT="poursuit ses exp&#xe9;riences magiques"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590898091" FOLDED="true" ID="ID_85172865" MODIFIED="1748866654101" TEXT="biomes">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748590917601" ID="ID_1689014151" MODIFIED="1748593107967" TEXT="oc&#xe9;an">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591025884" ID="ID_476010481" MODIFIED="1748593107973" TEXT="yaourt"/>
+</node>
+<node COLOR="#990000" CREATED="1748590920277" ID="ID_43801020" MODIFIED="1748593107973" TEXT="montagne">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591029422" ID="ID_434898927" MODIFIED="1748593107978" TEXT="comt&#xe9;"/>
+<node COLOR="#111111" CREATED="1748600382643" ID="ID_1922021280" MODIFIED="1748600385101" TEXT="fromage blanc"/>
+<node COLOR="#111111" CREATED="1748600414072" ID="ID_46343814" MODIFIED="1748600417214" TEXT="volcans de bleu"/>
+</node>
+<node COLOR="#990000" CREATED="1748590927474" ID="ID_730852178" MODIFIED="1748593107978" TEXT="for&#xea;t">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591249478" ID="ID_335525669" MODIFIED="1748593107981" TEXT="b&#xfb;chettes de ch&#xe8;vres"/>
+</node>
+<node COLOR="#990000" CREATED="1748590941878" ID="ID_756532137" MODIFIED="1748593107982" TEXT="plaine">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591267103" ID="ID_352940627" MODIFIED="1748593107986" TEXT="emmental"/>
+<node COLOR="#111111" CREATED="1748591275081" ID="ID_1384832040" MODIFIED="1748593107986" TEXT="tartare"/>
+</node>
+<node COLOR="#990000" CREATED="1748590956587" ID="ID_1444450619" MODIFIED="1748593107987" TEXT="caverne">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591262143" ID="ID_1172211363" MODIFIED="1748593107988" TEXT="trous du gruy&#xe8;re"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590902807" FOLDED="true" ID="ID_1608060408" MODIFIED="1748866671712" TEXT="structures">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748600483114" ID="ID_302514174" MODIFIED="1748600490833" TEXT="camembert en bo&#xee;te">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748600491651" ID="ID_1818306393" MODIFIED="1748600497386" TEXT="seule source de bois"/>
+</node>
+<node COLOR="#990000" CREATED="1748600566715" ID="ID_162174521" MODIFIED="1748600705653" TEXT="creuset de fondue">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748600713469" ID="ID_202201134" MODIFIED="1748600718686" TEXT="indestructible"/>
+<node COLOR="#111111" CREATED="1748600719319" ID="ID_1744320162" MODIFIED="1748600727480" TEXT="on peut se noyer dedans"/>
+</node>
+<node COLOR="#990000" CREATED="1748600844389" ID="ID_1586235800" MODIFIED="1748600851000" TEXT="restaurant Chez Dar">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748601295822" ID="ID_883015948" MODIFIED="1748601305139" TEXT="commerce de recettes trouvables uniquement ici"/>
+</node>
+<node COLOR="#990000" CREATED="1748601126096" ID="ID_1064555455" MODIFIED="1748601131386" TEXT="Bastion R&#xe2;p&#xe9;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590907445" FOLDED="true" ID="ID_965759032" MODIFIED="1748869986949" TEXT="entit&#xe9;s">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748591361570" ID="ID_1525449198" MODIFIED="1748593107991" TEXT="&#xe9;l&#xe9;menthal">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748604639059" ID="ID_106966199" MODIFIED="1748604670950" TEXT="vapeurs de fromage moisi">
+<node COLOR="#111111" CREATED="1748604677304" ID="ID_738174217" MODIFIED="1748604679701" TEXT="naus&#xe9;e"/>
+</node>
+<node COLOR="#111111" CREATED="1748604687983" ID="ID_254420861" MODIFIED="1748866692964" TEXT="raclette enflamm&#xe9;e">
+<node COLOR="#111111" CREATED="1748604722189" ID="ID_1049623154" MODIFIED="1748866713626" TEXT="lance de la raclette piment&#xe9;e, qui se transforme en boule de feu au bout d&apos;un certain temps  "/>
+</node>
+<node COLOR="#111111" CREATED="1748604736966" ID="ID_1349051567" MODIFIED="1748604746479" TEXT="&#xe9;touffement">
+<node COLOR="#111111" CREATED="1748604747022" ID="ID_865374754" MODIFIED="1748866732401" TEXT="fait couler du fromage depuis le plafond sur le joueur, r&#xe9;duisant sa vitesse, l&apos;emp&#xea;chant de sauter, et l&apos;asphyxiant     "/>
+</node>
+<node COLOR="#111111" CREATED="1748604793854" ID="ID_1923571519" MODIFIED="1748604815721" TEXT="vuln&#xe9;rable &#xe0; la po&#xea;le enchant&#xe9;e sp&#xe9;ciale &#xe9;l&#xe9;menthal"/>
+<node COLOR="#111111" CREATED="1748604820970" ID="ID_1036400035" MODIFIED="1748866748948" TEXT="peut se r&#xe9;g&#xe9;n&#xe9;rer si il y a du fromage alentours  "/>
+<node COLOR="#111111" CREATED="1748604846613" ID="ID_658700793" MODIFIED="1748866755711" TEXT="le joueur doit manger l&apos;&#xe9;l&#xe9;menthal, mais il n&apos;a plus faim au bout d&apos;un moment  "/>
+</node>
+<node COLOR="#990000" CREATED="1748591387559" ID="ID_676504845" MODIFIED="1748593107998" TEXT="St Agur">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748591398132" ID="ID_192094870" MODIFIED="1748600467323" TEXT="petits suisses">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748600513927" ID="ID_1373351990" MODIFIED="1748600519145" TEXT="dans les montagnes de comt&#xe9;"/>
+</node>
+<node COLOR="#990000" CREATED="1748600597986" ID="ID_1185239959" MODIFIED="1748600601655" TEXT="Camembear">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748600603821" ID="ID_1019920237" MODIFIED="1748600611772" TEXT="ours p&#xe2;teux"/>
+</node>
+<node COLOR="#990000" CREATED="1748600613151" ID="ID_90545923" MODIFIED="1748600619504" TEXT="tartares tribaux">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748600623546" ID="ID_1159735261" MODIFIED="1748601145751" TEXT="vivent dans les Bastions R&#xe2;p&#xe9;s"/>
+<node COLOR="#111111" CREATED="1748600629738" ID="ID_1193197116" MODIFIED="1748600634209" TEXT="attaquent sans r&#xe9;fl&#xe9;chir"/>
+</node>
+<node COLOR="#990000" CREATED="1748600635009" ID="ID_84798670" MODIFIED="1748600639659" TEXT="gruyautres">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748600640370" ID="ID_861659122" MODIFIED="1748600646423" TEXT="golems de fromage, en gruy&#xe8;re"/>
+</node>
+<node COLOR="#990000" CREATED="1748600911022" ID="ID_778358127" MODIFIED="1748600913649" TEXT="Rat Clette">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748601260584" ID="ID_1798167632" MODIFIED="1748601272877" TEXT="peuvent modifier le terrain en le mangeant"/>
+</node>
+<node COLOR="#990000" CREATED="1748604653248" ID="ID_819272283" MODIFIED="1748604894642" TEXT="Roc Fort">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590909706" FOLDED="true" ID="ID_569955999" MODIFIED="1748869998198" TEXT="objets">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748600667238" ID="ID_1322086754" MODIFIED="1748600671552" TEXT="symbole de St Agur">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748600732125" ID="ID_914425568" MODIFIED="1748601191287" TEXT="cro&#xfb;te v&#xe9;n&#xe9;rable">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748601192153" ID="ID_1747852694" MODIFIED="1748601197441" TEXT="vieillie par le temps"/>
+<node COLOR="#111111" CREATED="1748601197712" ID="ID_537847061" MODIFIED="1748601204513" TEXT="sert dans des recettes alchimiques"/>
+</node>
+<node COLOR="#990000" CREATED="1748601209483" ID="ID_1030529488" MODIFIED="1748601215811" TEXT="soupe au fromage sacr&#xe9;">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748601216560" ID="ID_1903530672" MODIFIED="1748601221073" TEXT="sort d&apos;invocation"/>
+<node COLOR="#111111" CREATED="1748601221366" ID="ID_882867833" MODIFIED="1748601235729" TEXT="permet de convaincre les Cro&#xfb;tons de combat"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590988312" FOLDED="true" ID="ID_1270737238" MODIFIED="1748870001753" TEXT="m&#xe9;canique">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748591291635" ID="ID_1771082097" MODIFIED="1748593108008" TEXT="il pleut du fromage">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591301443" ID="ID_719842346" MODIFIED="1748593108009" TEXT="demande de nettoyer les armures r&#xe9;guli&#xe8;rement">
+<node COLOR="#111111" CREATED="1748591318906" ID="ID_821417391" MODIFIED="1748593108010" TEXT="dans un chaudron rempli d&apos;alcool fort chauff&#xe9;"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748600423682" ID="ID_208913407" MODIFIED="1748600433046" TEXT="coul&#xe9;e de raclette, fa&#xe7;on lave dans le nether">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590992112" FOLDED="true" ID="ID_697711515" MODIFIED="1748870004055" TEXT="portail">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748591356756" ID="ID_1096899283" MODIFIED="1748600767323" TEXT="&#xe9;l&#xe9;menthal drop un objet">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748600768625" ID="ID_1377809714" MODIFIED="1748600777181" TEXT="entre des murs de cro&#xfb;te">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1748590759158" FOLDED="true" ID="ID_575702878" MODIFIED="1748870232546" POSITION="right" TEXT="Briocorp">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1748593362463" FOLDED="true" ID="ID_756618896" MODIFIED="1748870105943" TEXT="histoire / qu&#xea;te">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748593375338" ID="ID_974504845" MODIFIED="1748593398667" TEXT="les Pices veulent industrialiser l&apos;&#xe9;levage des Bis-Cot, mais les Chouquettiens s&apos;y opposent">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748593399442" ID="ID_1862474691" MODIFIED="1748593424515" TEXT="Le Capitaine des Br&#xf6;tchens Blind&#xe9;s, essaie de r&#xe9;soudre le conflit">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748593424744" ID="ID_1849130769" MODIFIED="1748593472763" TEXT="Il n&apos;y arrive pas, il se contente d&apos;&#xe9;viter les batailles sanglantes entre les deux peuples">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748593496043" ID="ID_987617594" MODIFIED="1748593662909" TEXT="Les Chouquettiens veulent faire appel aux Cro&#xfb;tons de combat, mais ceci refusent de prendre position">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748593753100" ID="ID_139172876" MODIFIED="1748593767237" TEXT="pour utiliser les machines de guerre des cro&#xfb;tons">
+<node COLOR="#111111" CREATED="1748593769828" ID="ID_17871917" MODIFIED="1748593779286" TEXT="pour mettre &#xe0; mal les forteresses des pices"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748593664319" ID="ID_668748468" MODIFIED="1748593691762" TEXT="Ils tentent alors de trouver les Miettors, mais ils sont enfouis trop profond&#xe9;mment sous terre pour les Chouquettiens">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748593537319" ID="ID_803234320" MODIFIED="1748593568794" TEXT="Il faudrait les convaincre que c&apos;est pour le mieux, et qu&apos;ils gagneront ensemble">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748593573176" ID="ID_914131085" MODIFIED="1748870045087" TEXT="Promettre une lib&#xe9;ration dans une soupe au fromage aux cro&#xfb;tons ?  "/>
+<node COLOR="#111111" CREATED="1748593607460" ID="ID_1760026934" MODIFIED="1748593745563" TEXT="Trouver les Miettors et leur exposer la situation, ils accepteront de suite"/>
+</node>
+<node COLOR="#990000" CREATED="1748593781480" ID="ID_1431394180" MODIFIED="1748593805114" TEXT="Alors, il faudrait attaquer les forteresses des pices avec les machines de si&#xe8;ge">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748593813603" ID="ID_890909424" MODIFIED="1748593837522" TEXT="Puis p&#xe9;n&#xe9;trer les villages et raisonner les Pices">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748593842876" ID="ID_802661210" MODIFIED="1748593862761" TEXT="ils en avaient juste marre de la brioche, voulaient tester autre chose"/>
+</node>
+<node COLOR="#990000" CREATED="1748594371831" ID="ID_867075973" MODIFIED="1748594378877" TEXT="Ils commercent dans la bonne entente">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748594379877" ID="ID_1334435581" MODIFIED="1748594399638" TEXT="Le Capitaine des Br&#xf6;tchens Blind&#xe9;s nous donne la Baguette Magique">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748594401577" ID="ID_483553928" MODIFIED="1748870095361" TEXT="Au d&#xe9;but, il ordonne aux Br&#xf6;tchens Blind&#xe9;s de nous attaquer  ">
+<node COLOR="#111111" CREATED="1748594454437" ID="ID_1553305583" MODIFIED="1748594470569" TEXT="parce que le joueur est ni pain ni viennoiserie"/>
+</node>
+<node COLOR="#111111" CREATED="1748594437458" ID="ID_1144797700" MODIFIED="1748594451760" TEXT="Apr&#xe8;s la qu&#xea;te, il devient gentil"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590898091" FOLDED="true" ID="ID_827130857" MODIFIED="1748870136676" TEXT="biomes">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748590917601" ID="ID_627050693" MODIFIED="1748593108020" TEXT="oc&#xe9;an">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591425770" ID="ID_1196898242" MODIFIED="1748593108020" TEXT="aucun"/>
+<node COLOR="#111111" CREATED="1748591430612" ID="ID_527759064" MODIFIED="1748593108020" TEXT="mares de confitures et beurre"/>
+</node>
+<node COLOR="#990000" CREATED="1748590920277" ID="ID_429727846" MODIFIED="1748593108020" TEXT="montagne">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591442048" ID="ID_1571021764" MODIFIED="1748593108020" TEXT="brioches sucr&#xe9;e"/>
+</node>
+<node COLOR="#990000" CREATED="1748590927474" ID="ID_1220512375" MODIFIED="1748593108020" TEXT="for&#xea;t">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591449462" ID="ID_900281536" MODIFIED="1748593108020" TEXT="baguette">
+<node COLOR="#111111" CREATED="1748591652213" ID="ID_1211263645" MODIFIED="1748593108021" TEXT="arbres tr&#xe8;s haut, sans feuille"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748591918286" ID="ID_813136709" MODIFIED="1748593108021" TEXT="plaine">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748590941878" ID="ID_588212707" MODIFIED="1748593108021" TEXT="pain de campagne"/>
+<node COLOR="#111111" CREATED="1748592254523" ID="ID_147856084" MODIFIED="1748600363066" TEXT="pain des Pices"/>
+<node COLOR="#111111" CREATED="1748591968313" ID="ID_1585486687" MODIFIED="1748593108021" TEXT="naan"/>
+</node>
+<node COLOR="#990000" CREATED="1748590956587" ID="ID_1085817101" MODIFIED="1748593108022" TEXT="caverne">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591893619" ID="ID_231657593" MODIFIED="1748593108022" TEXT="mie moelle et a&#xe9;r&#xe9;e"/>
+<node COLOR="#111111" CREATED="1748592426777" ID="ID_1935979871" MODIFIED="1748593108022" TEXT="chaussons aux pommes">
+<node COLOR="#111111" CREATED="1748592433708" ID="ID_1657288461" MODIFIED="1748593108022" TEXT="nappes phr&#xe9;atiques"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748591673996" ID="ID_1146909768" MODIFIED="1748593108023" TEXT="a&#xe9;riens">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591686828" ID="ID_1377751461" MODIFIED="1748593108023" TEXT="cr&#xea;pes nuages"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590902807" FOLDED="true" ID="ID_1117154869" MODIFIED="1748870185355" TEXT="structures">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748591454434" ID="ID_1948108961" MODIFIED="1748593108023" TEXT="chouquettes">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591458967" ID="ID_1466963274" MODIFIED="1748593108024" TEXT="maisons des chouquettiens"/>
+</node>
+<node COLOR="#990000" CREATED="1748591850566" ID="ID_906740259" MODIFIED="1748593108024" TEXT="pains au chocolat">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591856556" ID="ID_202453238" MODIFIED="1748593108024" TEXT="march&#xe9;s de nourritures pour les chouquettiens"/>
+</node>
+<node COLOR="#990000" CREATED="1748591474710" ID="ID_534261230" MODIFIED="1748593108024" TEXT="gaufres-champs">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591700152" ID="ID_864350574" MODIFIED="1748870151115" TEXT="chaque case permet de cultiver des trucs, comme de la confiture ou du miel ou du beurre  "/>
+</node>
+<node COLOR="#990000" CREATED="1748591756316" ID="ID_624616065" MODIFIED="1748593108025" TEXT="Tart&#xe9;drales">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591778103" ID="ID_256769941" MODIFIED="1748593108025" TEXT="cath&#xe9;drales de tartines"/>
+<node COLOR="#111111" CREATED="1748591798287" ID="ID_1224600633" MODIFIED="1748593108025" TEXT="reliques">
+<node COLOR="#111111" CREATED="1748592567328" ID="ID_1408986392" MODIFIED="1748593108025" TEXT="Croix-Sans Gluten"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748591764791" ID="ID_1059775234" MODIFIED="1748593108025" TEXT="Briocorp">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591771055" ID="ID_1851021926" MODIFIED="1748593108026" TEXT="usines &#xe0; brioches"/>
+<node COLOR="#111111" CREATED="1748591878350" ID="ID_826241527" MODIFIED="1748870181058" TEXT="pour nourrir les Pices"/>
+</node>
+<node COLOR="#990000" CREATED="1748591945588" ID="ID_332980696" MODIFIED="1748593108026" TEXT="Pain perdu">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748592046409" ID="ID_136044371" MODIFIED="1748593108026" TEXT="villes enfouies sous de la fondue savoyarde">
+<node COLOR="#111111" CREATED="1748592065104" ID="ID_400336164" MODIFIED="1748593108026" TEXT="fa&#xe7;on atlantide"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590907445" FOLDED="true" ID="ID_1919688952" MODIFIED="1748870217415" TEXT="entit&#xe9;s">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748591538146" ID="ID_211852050" MODIFIED="1748593108027" TEXT="Br&#xf6;tchen blind&#xe9;s">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591736029" ID="ID_1618604919" MODIFIED="1748593108027" TEXT="== trolls en armures"/>
+<node COLOR="#111111" CREATED="1748592328253" ID="ID_1126181343" MODIFIED="1748593108027" TEXT="r&#xe9;siste aux attaques physiques"/>
+<node COLOR="#111111" CREATED="1748592340726" ID="ID_163897608" MODIFIED="1748593108027" TEXT="plus facile &#xe0; vaincre gr&#xe2;ce &#xe0; du K&#xe4;se Br&#xf6;tchen, si on le fait tomber dedans">
+<node COLOR="#111111" CREATED="1748592380460" ID="ID_1717727553" MODIFIED="1748593108027" TEXT="m&#xe9;lange venant de la Fromagie"/>
+</node>
+<node COLOR="#111111" CREATED="1748600222696" ID="ID_73210158" MODIFIED="1748600237666" TEXT="Capitaine des [...]"/>
+</node>
+<node COLOR="#990000" CREATED="1748591546226" ID="ID_1610619406" MODIFIED="1748600217816" TEXT="Cro&#xfb;tons de combat">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591745009" ID="ID_893134999" MODIFIED="1748600258560" TEXT="== gobelins">
+<node COLOR="#111111" CREATED="1748592310719" ID="ID_661026980" MODIFIED="1748593108028" TEXT="nombreux"/>
+<node COLOR="#111111" CREATED="1748592315414" ID="ID_1298655370" MODIFIED="1748593108028" TEXT="fantassins"/>
+<node COLOR="#111111" CREATED="1748592319550" ID="ID_143966989" MODIFIED="1748593108028" TEXT="pas tr&#xe8;s bien forts individuellement"/>
+</node>
+<node COLOR="#111111" CREATED="1748600253647" ID="ID_1562981605" MODIFIED="1748600254775" TEXT="engins de combat &#xe0; distance">
+<node COLOR="#111111" CREATED="1748799661489" ID="ID_121044919" MODIFIED="1748799682358" TEXT="permet d&apos;envoyer des Cro&#xfb;tons &#xe0; l&apos;A&#xef;e"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748599770377" ID="ID_135259214" MODIFIED="1748599774543" TEXT="Chouquettiens">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748591563583" ID="ID_220005424" MODIFIED="1748593108028" TEXT="Miettors">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591990186" ID="ID_584796869" MODIFIED="1748593108028" TEXT="attaques de groupe, comme un essaim d&apos;abeilles"/>
+<node COLOR="#111111" CREATED="1748592004445" ID="ID_862401137" MODIFIED="1748593707317" TEXT="enfouis sous terre"/>
+</node>
+<node COLOR="#990000" CREATED="1748592146786" ID="ID_810420177" MODIFIED="1748593108029" TEXT="Bis-Cot">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748592150500" ID="ID_1529413481" MODIFIED="1748593108029" TEXT="Poules de miettes"/>
+<node COLOR="#111111" CREATED="1748592238269" ID="ID_244092226" MODIFIED="1748600201117" TEXT="&#xe9;lev&#xe9;es par les chouquettiens"/>
+</node>
+<node COLOR="#990000" CREATED="1748592230201" ID="ID_1789267351" MODIFIED="1748593108029" TEXT="Pices">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748592233258" ID="ID_819083400" MODIFIED="1748593108029" TEXT="habitants du pain des Pices"/>
+<node COLOR="#111111" CREATED="1748593487241" ID="ID_1526613159" MODIFIED="1748600207405" TEXT="villages fortifi&#xe9;s"/>
+<node COLOR="#111111" CREATED="1748593478615" ID="ID_943591401" MODIFIED="1748593484148" TEXT="d&#xe9;tenteurs des Briocorps"/>
+<node COLOR="#111111" CREATED="1748799295084" ID="ID_808876887" MODIFIED="1748799320284" TEXT="peut invoquer des Pains"/>
+</node>
+<node COLOR="#990000" CREATED="1748592662747" ID="ID_1640278973" MODIFIED="1748593108030" TEXT="Beurros-Tournant">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748592680295" ID="ID_1242447808" MODIFIED="1748593108030" TEXT="mini tornades de beurre"/>
+<node COLOR="#111111" CREATED="1748592971093" ID="ID_596551523" MODIFIED="1748593108030" TEXT="comme des toupies"/>
+<node COLOR="#111111" CREATED="1748592978201" ID="ID_1103313458" MODIFIED="1748870212743" TEXT="infligent des d&#xe9;g&#xe2;ts suivant la vitesse de rotation  "/>
+<node COLOR="#111111" CREATED="1748799338717" ID="ID_1176636717" MODIFIED="1748799347096" TEXT="appara&#xee;t dans les virages ?"/>
+</node>
+<node COLOR="#990000" CREATED="1748799211492" ID="ID_173872673" MODIFIED="1748799232624" TEXT="Pain">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748799233682" ID="ID_896009907" MODIFIED="1748870207154" TEXT="immense miche en forme de poing qui appara&#xee;t parfois au dessus du joueur  "/>
+<node COLOR="#111111" CREATED="1748799257414" ID="ID_1991267386" MODIFIED="1748799279108" TEXT="essaie de l&apos;&#xe9;craser une fois, puis dispara&#xee;t"/>
+<node COLOR="#111111" CREATED="1748799279615" ID="ID_1345569909" MODIFIED="1748799288104" TEXT="appara&#xee;t par invocation"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590909706" FOLDED="true" ID="ID_675089732" MODIFIED="1748870225339" TEXT="objets">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748590962044" ID="ID_1262967425" MODIFIED="1748593108031" TEXT="minerais">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748591487539" ID="ID_91002420" MODIFIED="1748593108031" TEXT="seulement quand c&apos;est une brioche fourr&#xe9;e, ou du pain aux olives"/>
+</node>
+<node COLOR="#990000" CREATED="1748590966957" ID="ID_359979394" MODIFIED="1748593108031" TEXT="armes">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748593878323" ID="ID_1116963043" MODIFIED="1748593882859" TEXT="Baguette magique">
+<node COLOR="#111111" CREATED="1748599727788" ID="ID_1430128149" MODIFIED="1748599750914" TEXT="obtenue &#xe0; la fin de la qu&#xea;te, donn&#xe9;e par le capitaine des Br&#xf6;tchens Blind&#xe9;s."/>
+<node COLOR="#111111" CREATED="1748599805411" ID="ID_438395281" MODIFIED="1748599820786" TEXT="permet d&apos;ouvrir les portails vers d&apos;autres dimensions"/>
+<node COLOR="#111111" CREATED="1748599845767" ID="ID_1777639262" MODIFIED="1748599856162" TEXT="faire appara&#xee;tre des Miettors"/>
+<node COLOR="#111111" CREATED="1748599856439" ID="ID_550936917" MODIFIED="1748599883369" TEXT="faire appara&#xee;tre un champs-gaufre ou un nuage-cr&#xea;pe"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590988312" FOLDED="true" ID="ID_831721887" MODIFIED="1748870228086" TEXT="m&#xe9;canique">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748593015926" ID="ID_278514773" MODIFIED="1748593108033" TEXT="tr&#xe8;s aride, demande de l&apos;eau plus souvent">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590992112" ID="ID_1144208886" MODIFIED="1748593108035" TEXT="portail">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1748591234921" FOLDED="true" ID="ID_623099198" MODIFIED="1748881510434" POSITION="right" TEXT="V&#xe9;g&#xe9;talia">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1748799705618" FOLDED="true" ID="ID_164753601" MODIFIED="1748870236715" TEXT="histoire / qu&#xea;te">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748799716739" ID="ID_656991284" MODIFIED="1748799742878" TEXT="a voulu envahir Mars ?">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748799825165" ID="ID_1085129165" MODIFIED="1748799835755" TEXT="avec des poireaux de LeekWars ?">
+<node COLOR="#111111" CREATED="1748816224734" ID="ID_980410466" MODIFIED="1748816230608" TEXT="pr&#xe9;parer de l&apos;ayahuasca"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748799786708" ID="ID_824246019" MODIFIED="1748799791101" TEXT="sauver les Ents ?">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748799802672" ID="ID_947635292" MODIFIED="1748799823519" TEXT="de qui ? de quoi ?"/>
+</node>
+<node COLOR="#990000" CREATED="1748816309223" ID="ID_461003151" MODIFIED="1748816320228" TEXT="retrouver la statuette &#xe0; l&apos;oreille cass&#xe9;e">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590898091" FOLDED="true" ID="ID_1018353692" MODIFIED="1748881510118" TEXT="biomes">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748590917601" ID="ID_552516923" MODIFIED="1748593108055" TEXT="oc&#xe9;an">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748817020273" ID="ID_1877745479" MODIFIED="1748817024172" TEXT="subnautica"/>
+</node>
+<node COLOR="#990000" CREATED="1748590920277" ID="ID_238694473" MODIFIED="1748593108055" TEXT="montagne">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748814915626" ID="ID_883416480" MODIFIED="1748814918640" TEXT="aucune"/>
+</node>
+<node COLOR="#990000" CREATED="1748590927474" ID="ID_865463264" MODIFIED="1748593108056" TEXT="for&#xea;t">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748813313856" ID="ID_968209610" MODIFIED="1748813326165" TEXT="champignons + arbres">
+<node COLOR="#111111" CREATED="1748813327189" ID="ID_1813444896" MODIFIED="1748813336299" TEXT="champignons lumineux"/>
+</node>
+<node COLOR="#111111" CREATED="1748814920163" ID="ID_1350432002" MODIFIED="1748814930921" TEXT="souches d&apos;arbres + mousses"/>
+<node COLOR="#111111" CREATED="1748816481483" ID="ID_1210303463" MODIFIED="1748816484237" TEXT="jungle">
+<node COLOR="#111111" CREATED="1748816494889" ID="ID_919889329" MODIFIED="1748816499230" TEXT="tribus tribales"/>
+<node COLOR="#111111" CREATED="1748817244563" ID="ID_250711427" MODIFIED="1748820937906" TEXT="fontaine de jouvence"/>
+<node COLOR="#111111" CREATED="1748817665507" ID="ID_1039805555" MODIFIED="1748820937906" TEXT="statues des insulaires de ninjago"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748590941878" ID="ID_782342173" MODIFIED="1748593108056" TEXT="plaine">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748816542147" ID="ID_166018896" MODIFIED="1748816549044" TEXT="plantes gel&#xe9;es">
+<node COLOR="#111111" CREATED="1748816549725" ID="ID_846499454" MODIFIED="1748816565746" TEXT="musique ambiance froide/glaciale"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748590956587" ID="ID_442375392" MODIFIED="1748593108056" TEXT="caverne">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748815550332" ID="ID_1610081737" MODIFIED="1748815558195" TEXT="alluveterre ?"/>
+<node COLOR="#111111" CREATED="1748816664887" ID="ID_1038557278" MODIFIED="1748816669529" TEXT="poussemer"/>
+</node>
+<node COLOR="#990000" CREATED="1748816799070" ID="ID_1502476808" MODIFIED="1748816806068" TEXT="gouffres avec ponts suspendus">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748816572330" ID="ID_416188543" MODIFIED="1748816576354" TEXT="iles suspendues">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748815009465" ID="ID_282659633" MODIFIED="1748815011824" TEXT="plafond">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748815012689" ID="ID_460987529" MODIFIED="1748815018199" TEXT="treille sup&#xe9;rieure">
+<node COLOR="#111111" CREATED="1748815019096" ID="ID_1508082057" MODIFIED="1748815029828" TEXT="lianes qui descendent progressivement"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590902807" FOLDED="true" ID="ID_1874394227" MODIFIED="1748818474849" TEXT="structures">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748799751229" ID="ID_1904675729" MODIFIED="1748799761823" TEXT="jardin Jack le T&#xe9;m&#xe9;raire ?">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748813235262" ID="ID_689365162" MODIFIED="1748813238573" TEXT="Yggdrasil">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748814081389" ID="ID_1275019682" MODIFIED="1748814109967" TEXT="mini-donjon en hauteur, marches de bois circulaires pour monter"/>
+<node COLOR="#111111" CREATED="1748814997012" ID="ID_1288682647" MODIFIED="1748815005596" TEXT="jusqu&apos;au plafond du monde"/>
+</node>
+<node COLOR="#990000" CREATED="1748818403440" ID="ID_668676060" MODIFIED="1748820937907" TEXT="camp des tribus tribales">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748818428309" ID="ID_1953499291" MODIFIED="1748820937907" TEXT="fontaine de jouvence">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590907445" FOLDED="true" ID="ID_1373928250" MODIFIED="1748818479905" TEXT="entit&#xe9;s">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748808905128" ID="ID_12256169" MODIFIED="1748809028375" TEXT="St&#xe9;&apos;cach&#xe9;">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748808911040" ID="ID_1420816169" MODIFIED="1748808916378" TEXT="furtif"/>
+<node COLOR="#111111" CREATED="1748808916637" ID="ID_1509982725" MODIFIED="1748808927809" TEXT="appara&#xee;t juste derri&#xe8;re le joueur"/>
+<node COLOR="#111111" CREATED="1748808928167" ID="ID_383806572" MODIFIED="1748808932681" TEXT="tr&#xe8;s lourd d&#xe9;g&#xe2;ts"/>
+<node COLOR="#111111" CREATED="1748808932968" ID="ID_309867049" MODIFIED="1748808942187" TEXT="5HP"/>
+</node>
+<node COLOR="#990000" CREATED="1748814037620" ID="ID_910719223" MODIFIED="1748814042515" TEXT="poireaux leekwars">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748814043069" ID="ID_772974773" MODIFIED="1748814045140" TEXT="ent">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748814048057" ID="ID_1632927542" MODIFIED="1748814054578" TEXT="en haut des Yggdrasil"/>
+<node COLOR="#111111" CREATED="1748814054987" ID="ID_1355077161" MODIFIED="1748814068808" TEXT="peut &#xe9;changer des potions, en &#xe9;change de qu&#xea;te"/>
+</node>
+<node COLOR="#990000" CREATED="1748816250188" ID="ID_1889606098" MODIFIED="1748816252283" TEXT="gnomes">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748816253026" ID="ID_1041191322" MODIFIED="1748816257933" TEXT="dans les cavernes"/>
+<node COLOR="#111111" CREATED="1748816258146" ID="ID_220163190" MODIFIED="1748816267091" TEXT="s&apos;occupent d&apos;entretenir les plantes ?"/>
+<node COLOR="#111111" CREATED="1748816267365" ID="ID_827374394" MODIFIED="1748816278823" TEXT="aident &#xe0;  pr&#xe9;parer l&apos;ayahuasca"/>
+</node>
+<node COLOR="#990000" CREATED="1748816284210" ID="ID_649313509" MODIFIED="1748816295938" TEXT="tribus &quot;tribales&quot;">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748816296766" ID="ID_1669600119" MODIFIED="1748816302937" TEXT="peuvent tirer &#xe0; la sarbacane"/>
+<node COLOR="#111111" CREATED="1748816303588" ID="ID_708534014" MODIFIED="1748816345225" TEXT="statuette &#xe0; l&apos;oreille cass&#xe9;e"/>
+<node COLOR="#111111" CREATED="1748816345549" ID="ID_812702355" MODIFIED="1748816354172" TEXT="donnent la recette pour l&apos;ayahuasca"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590909706" FOLDED="true" ID="ID_1765841568" MODIFIED="1748818480354" TEXT="objets">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748590962044" ID="ID_1353340008" MODIFIED="1748593108058" TEXT="minerais">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748799900668" ID="ID_1982967632" MODIFIED="1748799936715" TEXT="pierre &#xe0; dissoudre pour obtenir des plantes mutantes ?">
+<node COLOR="#111111" CREATED="1748799936716" ID="ID_1221234019" MODIFIED="1748799962712" TEXT="comme les ninja turtles"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748590966957" ID="ID_155384094" MODIFIED="1748593108058" TEXT="armes">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748799972033" ID="ID_598975844" MODIFIED="1748799989579" TEXT="d&#xe9;sherbant alchimique">
+<node COLOR="#111111" CREATED="1748813405998" ID="ID_686005766" MODIFIED="1748813409192" TEXT="tue les mobs"/>
+<node COLOR="#111111" CREATED="1748813409437" ID="ID_685229161" MODIFIED="1748813413794" TEXT="d&#xe9;truit les blocs"/>
+<node COLOR="#111111" CREATED="1748813414234" ID="ID_315808988" MODIFIED="1748813416876" TEXT="aucun loot"/>
+<node COLOR="#111111" CREATED="1748813417252" ID="ID_890051414" MODIFIED="1748813419896" TEXT="aucun xp"/>
+</node>
+<node COLOR="#111111" CREATED="1748814017981" ID="ID_1022732745" MODIFIED="1748814027220" TEXT="potion de calme pour plantes">
+<node COLOR="#111111" CREATED="1748814028215" ID="ID_545506760" MODIFIED="1748814034522" TEXT="donn&#xe9;e par les Ents"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748814322528" FOLDED="true" ID="ID_232971741" MODIFIED="1748866116167" TEXT="plantes particuli&#xe8;res">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748814330047" ID="ID_1403697378" MODIFIED="1748814332861" TEXT="aur&#xe9;lium">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748814796718" ID="ID_1559189172" MODIFIED="1748814801137" TEXT="feuille dor&#xe9;e"/>
+<node COLOR="#111111" CREATED="1748814801426" ID="ID_396436278" MODIFIED="1748814813620" TEXT="permet de fabriquer des antidotes puissants"/>
+</node>
+<node COLOR="#990000" CREATED="1748814445336" ID="ID_553534791" MODIFIED="1748814448035" TEXT="brume lune">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748814448825" ID="ID_619274419" MODIFIED="1748814453948" TEXT="champignon"/>
+<node COLOR="#111111" CREATED="1748814454339" ID="ID_1728522685" MODIFIED="1748814457403" TEXT="couleur argent"/>
+<node COLOR="#111111" CREATED="1748814457656" ID="ID_1382294671" MODIFIED="1748814474440" TEXT="sert &#xe0; faire passer le jour directement">
+<node COLOR="#111111" CREATED="1748814478062" ID="ID_159736586" MODIFIED="1748814481951" TEXT="demande une potion"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748814521866" ID="ID_929735997" MODIFIED="1748814525972" TEXT="mousse spectrale">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748862863992" ID="ID_146673507" MODIFIED="1748862865402" TEXT="???"/>
+</node>
+<node COLOR="#990000" CREATED="1748814574712" ID="ID_325837265" MODIFIED="1748814579202" TEXT="fleur de Lunesonge">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748814580141" ID="ID_505427823" MODIFIED="1748814584792" TEXT="texture magnifique"/>
+<node COLOR="#111111" CREATED="1748814585099" ID="ID_711402350" MODIFIED="1748814590940" TEXT="aucune utilit&#xe9; pratique"/>
+</node>
+<node COLOR="#990000" CREATED="1748814601583" ID="ID_1550698578" MODIFIED="1748814606013" TEXT="lys noir">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748814607044" ID="ID_1551547623" MODIFIED="1748814613739" TEXT="proche des tombeaux ents"/>
+<node COLOR="#111111" CREATED="1748814615636" ID="ID_1198168828" MODIFIED="1748814638362" TEXT="permet d&apos;accomplir un rituel de protection d&apos;un lieu">
+<node COLOR="#111111" CREATED="1748814639230" ID="ID_1609227076" MODIFIED="1748814642972" TEXT="quelle taille ?"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748814644661" ID="ID_1338572637" MODIFIED="1748814659649" TEXT="murmure des bois">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748814660409" ID="ID_644206426" MODIFIED="1748814675710" TEXT="particuli&#xe8;rement pris&#xe9; des Ents"/>
+</node>
+<node COLOR="#990000" CREATED="1748814684657" ID="ID_208710797" MODIFIED="1748814689242" TEXT="liane-r&#xea;veuse">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748814690715" ID="ID_344095735" MODIFIED="1748814698139" TEXT="am&#xe9;liore la qualit&#xe9; du sommeil"/>
+</node>
+<node COLOR="#990000" CREATED="1748814724044" ID="ID_1403896189" MODIFIED="1748814727463" TEXT="racine des ombres">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748814728391" ID="ID_1682262093" MODIFIED="1748814743370" TEXT="permet de concocter  une potion d&apos;invisibilt&#xe9;"/>
+<node COLOR="#111111" CREATED="1748814887435" ID="ID_1290024931" MODIFIED="1748814893147" TEXT="racine qui pousse en profondeur"/>
+</node>
+<node COLOR="#990000" CREATED="1748814288014" ID="ID_1978564441" MODIFIED="1748814293021" TEXT="graine du souvenir">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748814293807" ID="ID_372301338" MODIFIED="1748814305465" TEXT="&#xe0; planter pour obtenir un yggddrasil"/>
+<node COLOR="#111111" CREATED="1748814305951" ID="ID_498591828" MODIFIED="1748814317064" TEXT="ou dans d&apos;autres dimension, un mallorne"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590988312" ID="ID_1172208226" MODIFIED="1748593108058" TEXT="m&#xe9;canique">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748590992112" FOLDED="true" ID="ID_1724319267" MODIFIED="1748818482959" TEXT="portail">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748799764607" ID="ID_178848092" MODIFIED="1748799772353" TEXT="graines Jack le T&#xe9;m&#xe9;raire">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1748590771287" FOLDED="true" HGAP="60" ID="ID_1218917390" MODIFIED="1748866579052" POSITION="left" TEXT="Sombrelys" VSHIFT="3">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<icon BUILTIN="idea"/>
+<node COLOR="#00b439" CREATED="1748590898091" ID="ID_1757312068" MODIFIED="1748593108072" TEXT="biomes">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748590917601" ID="ID_315349630" MODIFIED="1748593108072" TEXT="oc&#xe9;an">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748590920277" ID="ID_1569156666" MODIFIED="1748593108073" TEXT="montagne">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748590927474" ID="ID_1417440547" MODIFIED="1748593108073" TEXT="for&#xea;t">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748590941878" ID="ID_1421492383" MODIFIED="1748593108073" TEXT="plaine">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748590956587" ID="ID_1088848936" MODIFIED="1748593108073" TEXT="caverne">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590902807" ID="ID_340003100" MODIFIED="1748593108073" TEXT="structures">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748816490243" ID="ID_1039623302" MODIFIED="1748817134471" TEXT="source astrale">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748866227066" ID="ID_678058747" MODIFIED="1748866245823" TEXT="DDN">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748866233229" ID="ID_683708476" MODIFIED="1748866236599" TEXT="golbargh"/>
+<node COLOR="#111111" CREATED="1748866237422" ID="ID_696590697" MODIFIED="1748866242779" TEXT="portail du golbargh"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590907445" ID="ID_1127576390" MODIFIED="1748593108074" TEXT="entit&#xe9;s">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748590909706" ID="ID_1502644279" MODIFIED="1748593108074" TEXT="objets">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748590962044" ID="ID_225654841" MODIFIED="1748593108074" TEXT="minerais">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748590966957" ID="ID_1312933171" MODIFIED="1748593108074" TEXT="armes">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590988312" ID="ID_722186251" MODIFIED="1748593108075" TEXT="m&#xe9;canique">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748811885935" ID="ID_788204807" MODIFIED="1748811906871" TEXT="jets de D20 occasionnant divers &#xe9;v&#xe8;nements">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590992112" ID="ID_925502355" MODIFIED="1748593108075" TEXT="portail">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1748590779200" FOLDED="true" HGAP="59" ID="ID_1614321865" MODIFIED="1748866580811" POSITION="left" TEXT="Mars">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<icon BUILTIN="idea"/>
+<node COLOR="#00b439" CREATED="1748810652701" ID="ID_1541464721" MODIFIED="1748810668749" TEXT="nations glory">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748590898091" ID="ID_742283813" MODIFIED="1748593108083" TEXT="biomes">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748590917601" ID="ID_1474886847" MODIFIED="1748593108083" TEXT="oc&#xe9;an">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748590920277" ID="ID_238649880" MODIFIED="1748593108083" TEXT="montagne">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748590927474" ID="ID_86381808" MODIFIED="1748593108084" TEXT="for&#xea;t">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748590941878" ID="ID_15338359" MODIFIED="1748593108084" TEXT="plaine">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748351861228" ID="ID_117415362" MODIFIED="1748810631369" TEXT="Terres de lave ninjago">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="Segoe Print" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748590956587" ID="ID_58158013" MODIFIED="1748593108084" TEXT="caverne">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590902807" ID="ID_469681307" MODIFIED="1748593108084" TEXT="structures">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748800709182" ID="ID_1716297548" MODIFIED="1748800720558" TEXT="r&#xe8;f cristal ombre Mythics ?">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748866207703" ID="ID_114418626" MODIFIED="1748866213532" TEXT="Grande Biblioth&#xe8;que">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748866215442" ID="ID_474395436" MODIFIED="1748866220449" TEXT="z&#xe9;bral pi&#xe9;g&#xe9;"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590907445" ID="ID_1443336492" MODIFIED="1748593108084" TEXT="entit&#xe9;s">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748590909706" ID="ID_1203953995" MODIFIED="1748593108084" TEXT="objets">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748590962044" ID="ID_879875657" MODIFIED="1748593108085" TEXT="minerais">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748590966957" ID="ID_596573339" MODIFIED="1748593108085" TEXT="armes">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590988312" ID="ID_114610617" MODIFIED="1748593108085" TEXT="m&#xe9;canique">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748590992112" ID="ID_1390645022" MODIFIED="1748593108085" TEXT="portail">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1748881519001" FOLDED="true" HGAP="25" ID="ID_1700831483" MODIFIED="1748881571000" POSITION="right" TEXT="Ender" VSHIFT="-1">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1748590898091" ID="ID_1751079972" MODIFIED="1748850490597" TEXT="biomes">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748820809029" FOLDED="true" ID="ID_1836102391" MODIFIED="1748866257657" TEXT="For&#xea;t de la discorde">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748821030239" ID="ID_994410896" MODIFIED="1748845522573" TEXT="bourr&#xe9;e de pi&#xe8;ges"/>
+<node COLOR="#111111" CREATED="1748821052038" ID="ID_965507918" MODIFIED="1748845522573" TEXT="beaucoup plus d&apos;adamantium"/>
+</node>
+<node COLOR="#990000" CREATED="1748820814384" FOLDED="true" ID="ID_559024733" MODIFIED="1748881541320" TEXT="Royaume de la Folie">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748821082382" ID="ID_1477502519" MODIFIED="1748845522573" TEXT="monstres rochers">
+<node COLOR="#111111" CREATED="1748821086385" ID="ID_809732277" MODIFIED="1748845522573" TEXT="villages"/>
+<node COLOR="#111111" CREATED="1748821089149" ID="ID_627168426" MODIFIED="1748845522573" TEXT="entit&#xe9;s"/>
+<node COLOR="#111111" CREATED="1748821093541" ID="ID_260087024" MODIFIED="1748845522573" TEXT="boue">
+<node COLOR="#111111" CREATED="1748821174722" ID="ID_1362368713" MODIFIED="1748845522573" TEXT="acceptent d&apos;en c&#xe9;der, mais pas trop &#xe0; la fois"/>
+<node COLOR="#111111" CREATED="1748845645634" ID="ID_540218331" MODIFIED="1748845648460" TEXT="alchimie"/>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748820821723" FOLDED="true" ID="ID_1982077439" MODIFIED="1748881540822" TEXT="Cavernes de Cristal">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748821021979" ID="ID_339518240" MODIFIED="1748845522574" TEXT="enderpearls interdites"/>
+<node COLOR="#111111" CREATED="1748821217179" ID="ID_164233467" MODIFIED="1748845522574" TEXT="minage des cristaux">
+<node COLOR="#111111" CREATED="1748866286689" FOLDED="true" ID="ID_893684893" MODIFIED="1748866302447" TEXT="recette">
+<node COLOR="#111111" CREATED="1748821229708" ID="ID_1734443943" MODIFIED="1748845522574" TEXT="&#xe9;clats de cristaux"/>
+<node COLOR="#111111" CREATED="1748821239903" ID="ID_320596207" MODIFIED="1748845522574" TEXT="faire m&#xfb;rir les &#xe9;clats"/>
+<node COLOR="#111111" CREATED="1748821247725" ID="ID_1068535540" MODIFIED="1748845522574" TEXT="les apporter aux monstres rochers">
+<node COLOR="#111111" CREATED="1748821261520" ID="ID_843952967" MODIFIED="1748845522574" TEXT="taxe : 1/5"/>
+</node>
+<node COLOR="#111111" CREATED="1748821274203" ID="ID_7132862" MODIFIED="1748845522574" TEXT="les r&#xe9;cup&#xe9;rer"/>
+</node>
+<node COLOR="#111111" CREATED="1748821291757" FOLDED="true" ID="ID_1692526274" MODIFIED="1748866306327" TEXT="orange">
+<node COLOR="#111111" CREATED="1748821355659" ID="ID_434792567" MODIFIED="1748845522574" TEXT="symbole">
+<node COLOR="#111111" CREATED="1748821389412" ID="ID_985673698" MODIFIED="1748845522574" TEXT="chaleur, &#xe9;nergie brute"/>
+</node>
+<node COLOR="#111111" CREATED="1748821363833" ID="ID_1190905673" MODIFIED="1748845522574" TEXT="effet dans les potions">
+<node COLOR="#111111" CREATED="1748821565764" ID="ID_487266622" MODIFIED="1748845522574" TEXT="feu"/>
+<node COLOR="#111111" CREATED="1748821567259" ID="ID_1596434645" MODIFIED="1748845522574" TEXT="explosifs"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1748821325996" FOLDED="true" ID="ID_1354107655" MODIFIED="1748866313984" TEXT="rouge">
+<node COLOR="#111111" CREATED="1748821355659" ID="ID_1510631287" MODIFIED="1748845522574" TEXT="symbole">
+<node COLOR="#111111" CREATED="1748821401825" ID="ID_1551178730" MODIFIED="1748845522574" TEXT="passion, mutation"/>
+</node>
+<node COLOR="#111111" CREATED="1748821363833" ID="ID_231368588" MODIFIED="1748845522574" TEXT="effet dans les potions">
+<node COLOR="#111111" CREATED="1748821580449" ID="ID_124223672" MODIFIED="1748845522574" TEXT="accro&#xee;t la puissance des potions de force"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1748821329785" FOLDED="true" ID="ID_1404511185" MODIFIED="1748866320229" TEXT="jaune">
+<node COLOR="#111111" CREATED="1748821355659" ID="ID_1359125420" MODIFIED="1748845522574" TEXT="vitesse, lumi&#xe8;re"/>
+<node COLOR="#111111" CREATED="1748821363833" ID="ID_1640478590" MODIFIED="1748845522574" TEXT="effet dans les potions">
+<node COLOR="#111111" CREATED="1748821614518" ID="ID_1952680785" MODIFIED="1748845522574" TEXT="prolonger la dur&#xe9;e des effets"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1748821333443" FOLDED="true" ID="ID_687142632" MODIFIED="1748866327229" TEXT="bleu clair">
+<node COLOR="#111111" CREATED="1748821355659" ID="ID_454820965" MODIFIED="1748845522574" TEXT="calme, purification"/>
+<node COLOR="#111111" CREATED="1748821363833" ID="ID_1213632562" MODIFIED="1748845522574" TEXT="effet dans les potions">
+<node COLOR="#111111" CREATED="1748821639701" ID="ID_1033289758" MODIFIED="1748845522574" TEXT="composant catalyseur"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1748821336008" FOLDED="true" ID="ID_894741117" MODIFIED="1748866334305" TEXT="blancs">
+<node COLOR="#111111" CREATED="1748821355659" ID="ID_399304400" MODIFIED="1748845522576" TEXT="neutres, catalyseurs"/>
+<node COLOR="#111111" CREATED="1748821363833" ID="ID_358802345" MODIFIED="1748845522576" TEXT="effet dans les potions">
+<node COLOR="#111111" CREATED="1748821657077" ID="ID_1799485192" MODIFIED="1748845522576" TEXT="alliage adamantium"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1748821340041" FOLDED="true" ID="ID_1261191978" MODIFIED="1748866372753" TEXT="verts">
+<node COLOR="#111111" CREATED="1748821355659" ID="ID_547762422" MODIFIED="1748845522576" TEXT="symbole">
+<node COLOR="#111111" CREATED="1748821512234" ID="ID_1354348687" MODIFIED="1748845522576" TEXT="croissance, lien v&#xe9;g&#xe9;tal"/>
+</node>
+<node COLOR="#111111" CREATED="1748821363833" ID="ID_792473424" MODIFIED="1748866371099" TEXT="effet dans les potions">
+<node COLOR="#111111" CREATED="1748866350381" ID="ID_1662739038" MODIFIED="1748866363662" TEXT="faire pousser les plantes plus vite"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1748821342704" FOLDED="true" ID="ID_1498578458" MODIFIED="1748866372262" TEXT="roses">
+<node COLOR="#111111" CREATED="1748821355659" ID="ID_1030390906" MODIFIED="1748866368957" TEXT="symbole">
+<node COLOR="#111111" CREATED="1748821531323" ID="ID_1215195437" MODIFIED="1748845522576" TEXT="effets mentaux, r&#xea;ves"/>
+</node>
+<node COLOR="#111111" CREATED="1748821363833" ID="ID_1869273149" MODIFIED="1748866371747" TEXT="effet dans les potions">
+<node COLOR="#111111" CREATED="1748821681267" ID="ID_1990234369" MODIFIED="1748845522576" TEXT="hallucinations, sommeil profond"/>
+</node>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1748821314770" ID="ID_762700638" MODIFIED="1748845522576" TEXT="fond tr&#xe8;s sombre (bleu-noir)">
+<node COLOR="#111111" CREATED="1748866376622" ID="ID_738083303" MODIFIED="1748866379546" TEXT="pierre ?"/>
+</node>
+<node COLOR="#111111" CREATED="1748821225200" ID="ID_1041951015" MODIFIED="1748845522576" TEXT="aucun mob"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590902807" FOLDED="true" ID="ID_1530400855" MODIFIED="1748881558111" TEXT="structures">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748820834847" FOLDED="true" ID="ID_881627729" MODIFIED="1748866507772" TEXT="fonderie de l&apos;ender">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748560375971" ID="ID_1227796518" MODIFIED="1748810494197" TEXT="partie allumage">
+<node COLOR="#111111" CREATED="1748560385682" ID="ID_96083463" MODIFIED="1748810494197" TEXT="cr&#xe9;e le combustible pour la fonderie"/>
+</node>
+<node COLOR="#111111" CREATED="1748560400333" ID="ID_1748614484" MODIFIED="1748810494197" TEXT="fonderie">
+<node COLOR="#111111" CREATED="1748560409005" ID="ID_594354652" MODIFIED="1748866415552" TEXT="permet de fusionner l&apos;adamantium et un cristal blanc$"/>
+<node COLOR="#111111" CREATED="1748560439110" ID="ID_918273708" MODIFIED="1748810494198" TEXT="cr&#xe9;e un alliage brut"/>
+<node COLOR="#111111" CREATED="1748560444219" ID="ID_452565335" MODIFIED="1748810494198" TEXT="ne fonctionne qu&apos;avec un feu du bloc 1"/>
+</node>
+<node COLOR="#111111" CREATED="1748560460019" ID="ID_336758330" MODIFIED="1748810494198" TEXT="partie purification">
+<node COLOR="#111111" CREATED="1748560466580" ID="ID_1127651541" MODIFIED="1748866497261" TEXT="permet de nettoyer le m&#xe9;tal des imperfections du fondant m&#xe9;tallurgique  "/>
+<node COLOR="#111111" CREATED="1748560490568" ID="ID_922113862" MODIFIED="1748810494198" TEXT="co&#xfb;te une potion">
+<node COLOR="#111111" CREATED="1748560501736" ID="ID_1919021933" MODIFIED="1748810494198" TEXT="acide des &#xe2;mes"/>
+<node COLOR="#111111" CREATED="1748560521685" ID="ID_635976783" MODIFIED="1748810494198" TEXT="infusion de fleur triste"/>
+</node>
+<node COLOR="#111111" CREATED="1748560574375" ID="ID_1849070516" MODIFIED="1748810494198" TEXT="transforme les alliages brut en alliages propres"/>
+</node>
+<node COLOR="#111111" CREATED="1748560604002" ID="ID_1145731696" MODIFIED="1748810494198" TEXT="re-fonderie">
+<node COLOR="#111111" CREATED="1748560612135" ID="ID_1984208255" MODIFIED="1748810494198" TEXT="cr&#xe9;er des lingots propres"/>
+</node>
+<node COLOR="#111111" CREATED="1748560532123" ID="ID_587512855" MODIFIED="1748810494198" TEXT="partie craft">
+<node COLOR="#111111" CREATED="1748560567881" ID="ID_256394310" MODIFIED="1748810494198" TEXT="table sp&#xe9;ciale"/>
+</node>
+<node COLOR="#111111" CREATED="1748560642641" ID="ID_1125264906" MODIFIED="1748810494198" TEXT="pupitre de z&#xe9;blar"/>
+<node COLOR="#111111" CREATED="1748845727581" ID="ID_1687775398" MODIFIED="1748845733590" TEXT="+ coffres ?"/>
+</node>
+<node COLOR="#990000" CREATED="1748821097262" ID="ID_289542623" MODIFIED="1748845522576" TEXT="villages monstres rochers">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590907445" FOLDED="true" ID="ID_1700135500" MODIFIED="1748881556050" TEXT="entit&#xe9;s">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748820840784" ID="ID_783982922" MODIFIED="1748820937908" TEXT="corbeaux spectraux">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748820847605" ID="ID_1334188722" MODIFIED="1748820937908" TEXT="carnes &#xe0; scier">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748800614529" ID="ID_1565263651" MODIFIED="1748845522576" TEXT="arbres carnivores">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1748800625634" ID="ID_859887170" MODIFIED="1748845522578" TEXT="attaquent le joueur">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1748800634408" ID="ID_1082644067" MODIFIED="1748845522580" TEXT="seul point faible : le tronc">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1748800649230" ID="ID_488921889" MODIFIED="1748800663402" TEXT="se d&#xe9;truit enti&#xe8;rement si le tronc est coup&#xe9;"/>
+<node COLOR="#111111" CREATED="1748800667320" ID="ID_885508923" MODIFIED="1748800680134" TEXT="invuln&#xe9;rable aux autres endroits"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748845511722" ID="ID_789463573" MODIFIED="1748845522581" TEXT="monstres rochers">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590909706" ID="ID_553074334" MODIFIED="1748866529934" TEXT="objets">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748820961414" FOLDED="true" ID="ID_1908589008" MODIFIED="1748881553182" TEXT="adamantium">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748362322738" ID="ID_1374645162" MODIFIED="1748866543374" TEXT="adamantium">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1748378247440" ID="ID_1912961572" MODIFIED="1748820937913" TEXT="plus r&#xe9;sistant">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1748362339047" ID="ID_1626849838" MODIFIED="1748820937913" TEXT="armure">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1748362357634" ID="ID_293480476" MODIFIED="1748820937913" TEXT="prot&#xe8;ge des d&#xe9;g&#xe2;ts de chute">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1748362346422" ID="ID_1594532633" MODIFIED="1748820937913" TEXT="outils">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1748362411475" ID="ID_253168831" MODIFIED="1748820937913" TEXT="marteau ?">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1748362420642" ID="ID_378276734" MODIFIED="1748820937914" TEXT="arme">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1748362424635" ID="ID_577768269" MODIFIED="1748820937914" TEXT="trident d&apos;adamantium">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1748362597187" ID="ID_1098895982" MODIFIED="1748820937914" TEXT="craft des spawners ?">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1748362608385" HGAP="19" ID="ID_1790793412" MODIFIED="1748820937916" TEXT="avec quoi les remplir ?" VSHIFT="31">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1748820977701" ID="ID_43396268" MODIFIED="1748845522581" TEXT="craft des machines alchimiques"/>
+<node COLOR="#111111" CREATED="1748364593490" HGAP="19" ID="ID_301094047" MODIFIED="1748820937916" TEXT="n&#xe9;cessite table de craft sp&#xe9;ciale ?" VSHIFT="22">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1748364607718" HGAP="15" ID="ID_758862136" MODIFIED="1748820937917" TEXT="fonderie de l&apos;ender ?" VSHIFT="25">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1748866567285" ID="ID_934220927" MODIFIED="1748866570095" TEXT="cristaux">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748845497028" ID="ID_909100792" MODIFIED="1748845522581" TEXT="gemmes">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748845499738" ID="ID_629918919" MODIFIED="1748845522581" TEXT="onyx"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748590988312" ID="ID_1171430005" MODIFIED="1748593108075" TEXT="m&#xe9;canique">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748820998674" ID="ID_309660390" MODIFIED="1748845522581" TEXT="aucune">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+</node>
+</map>

@@ -1,0 +1,665 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node COLOR="#000000" CREATED="1748512522294" ID="ID_707380879" MODIFIED="1748879733338" TEXT="Nourritures : Blocs / Items">
+<font NAME="SansSerif" SIZE="20"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<node COLOR="#0033ff" CREATED="1748512595610" ID="ID_1040291965" MODIFIED="1748521429076" POSITION="right" TEXT="Blocs">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1748521882025" ID="ID_1739765084" MODIFIED="1748521890200" TEXT="">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1748522471667" ID="ID_1700660899" MODIFIED="1748874862138" POSITION="right" TEXT="Recettes">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1748522485637" ID="ID_430284057" MODIFIED="1748872595550" TEXT="pain de mie">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522570681" ID="ID_190654694" MODIFIED="1748522572600" TEXT="p&#xe2;tes">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748522591089" ID="ID_1062204505" MODIFIED="1748522595647" TEXT="coquillettes">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748872940836" ID="ID_879137615" MODIFIED="1748872946030" TEXT="p&#xe2;tes ?!">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748522596082" ID="ID_1138668285" MODIFIED="1748522609247" TEXT="pour les sauces">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748522601644" ID="ID_912392566" MODIFIED="1748522616312" TEXT="pour les lasagnes">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748874863865" ID="ID_1422500365" MODIFIED="1748874865604" TEXT="glaces">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1748526756163" FOLDED="true" ID="ID_496946630" MODIFIED="1748879732832" POSITION="left" TEXT="plantes">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1748521817804" ID="ID_1628796085" MODIFIED="1748521818829" TEXT="ail">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522096649" ID="ID_550884882" MODIFIED="1748522097754" TEXT="banane">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522537593" ID="ID_213378176" MODIFIED="1748522539270" TEXT="basilic">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522209428" ID="ID_145408129" MODIFIED="1748873874072" TEXT="bl&#xe9;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748872477387" ID="ID_1330480890" MODIFIED="1748872478900" TEXT="farine">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748522011009" ID="ID_393564073" MODIFIED="1748522012252" TEXT="cacao">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748523398759" ID="ID_1531981687" MODIFIED="1748523400078" TEXT="caf&#xe9;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748873847572" ID="ID_848203350" MODIFIED="1748873851034" TEXT="canne &#xe0; sucre">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748873854519" ID="ID_476319116" MODIFIED="1748873858714" TEXT="sucre">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748873859136" ID="ID_1609754428" MODIFIED="1748873864927" TEXT="rhum">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748521764994" ID="ID_1215699767" MODIFIED="1748521778064" TEXT="carotte">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522018118" ID="ID_503469424" MODIFIED="1748522020044" TEXT="cerise">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748521745467" ID="ID_1848214395" MODIFIED="1748521747986" TEXT="champignons">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522882745" ID="ID_1422855937" MODIFIED="1748522883854" TEXT="chou">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522040309" ID="ID_723207843" MODIFIED="1748522041906" TEXT="citron">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522126594" ID="ID_527673391" MODIFIED="1748526826063" TEXT="citrouille">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522829528" ID="ID_664368117" MODIFIED="1748522831438" TEXT="concombre">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522870450" ID="ID_1851277373" MODIFIED="1748522873412" TEXT="courgette">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522987012" ID="ID_4865650" MODIFIED="1748522988604" TEXT="curry">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522818011" ID="ID_1049508942" MODIFIED="1748522819904" TEXT="haricots">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522820196" ID="ID_1760941521" MODIFIED="1748522821988" TEXT="ma&#xef;s">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748523234104" ID="ID_1180455253" MODIFIED="1748523235266" TEXT="noix">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748874069682" ID="ID_1006128720" MODIFIED="1748874073162" TEXT="noix de coco">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748874074410" ID="ID_1147824800" MODIFIED="1748874077173" TEXT="lait de coco">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748874079053" ID="ID_1062465813" MODIFIED="1748874082146" TEXT="glace &#xe0; la coco">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748522392342" ID="ID_1439586584" MODIFIED="1748522393835" TEXT="oignons">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522109280" ID="ID_1742762718" MODIFIED="1748873874074" TEXT="olives">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748872460724" ID="ID_992454914" MODIFIED="1748872462405" TEXT="huile">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748522760174" ID="ID_1663579526" MODIFIED="1748522763057" TEXT="past&#xe8;que">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748521743335" ID="ID_378211575" MODIFIED="1748521745193" TEXT="piment">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522745836" ID="ID_442172491" MODIFIED="1748522746794" TEXT="poire">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522974599" ID="ID_127106411" MODIFIED="1748522976601" TEXT="poivron">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748521995166" ID="ID_1588503085" MODIFIED="1748521996624" TEXT="pomme">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748874355074" ID="ID_1597844770" MODIFIED="1748874358037" TEXT="morceaux">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748874358311" ID="ID_194389247" MODIFIED="1748874361448" TEXT="compote">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748521767492" ID="ID_1700098881" MODIFIED="1748521771187" TEXT="pomme de terre">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748523580831" ID="ID_1741080840" MODIFIED="1748873978157" TEXT="pousse de bambous">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522753848" ID="ID_219589812" MODIFIED="1748522755583" TEXT="p&#xea;che">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522757778" ID="ID_702307669" MODIFIED="1748522759714" TEXT="raisin">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522814043" ID="ID_332078779" MODIFIED="1748522814976" TEXT="riz">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522804576" ID="ID_134410509" MODIFIED="1748522806606" TEXT="salade">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522120887" ID="ID_871508001" MODIFIED="1748873874076" TEXT="seigle">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748872423295" ID="ID_945518254" MODIFIED="1748872425506" TEXT="farine">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748872426054" ID="ID_1150625900" MODIFIED="1748872429864" TEXT="graine">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748523154022" ID="ID_1602127612" MODIFIED="1748523155332" TEXT="soja">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748521950481" ID="ID_1205475480" MODIFIED="1748521951472" TEXT="sucre">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522123266" ID="ID_700390362" MODIFIED="1748873874078" TEXT="s&#xe9;same">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748872438572" ID="ID_995434143" MODIFIED="1748872440580" TEXT="graine">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748523082063" ID="ID_786312042" MODIFIED="1748523083561" TEXT="thym">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748523397880" ID="ID_1187021399" MODIFIED="1748523398493" TEXT="th&#xe9;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522394098" ID="ID_1069121605" MODIFIED="1748873874079" TEXT="tomate">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748872619722" ID="ID_417744967" MODIFIED="1748872621299" TEXT="sauce">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748522129667" ID="ID_490972910" MODIFIED="1748873874082" TEXT="tournesol">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748872449837" ID="ID_1356117112" MODIFIED="1748872451506" TEXT="graine">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748872451821" ID="ID_804851161" MODIFIED="1748872453444" TEXT="huile">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1748527015200" FOLDED="true" ID="ID_1170500025" MODIFIED="1748876054983" POSITION="left" TEXT="viande">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1748527658063" FOLDED="true" ID="ID_1086474763" MODIFIED="1748873259749" TEXT="poissons">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748522955845" ID="ID_198611752" MODIFIED="1748527716741" TEXT="morue">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748522997079" ID="ID_1014787220" MODIFIED="1748527716744" TEXT="moules">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748527718026" ID="ID_1890796974" MODIFIED="1748527722442" TEXT="thon">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748527764455" FOLDED="true" ID="ID_1400778145" MODIFIED="1748873247332" TEXT="chacuterie">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748522901516" ID="ID_243172240" MODIFIED="1748527752619" TEXT="bacon">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748521763269" ID="ID_1607825962" MODIFIED="1748527752619" TEXT="jambon">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748522792029" ID="ID_1482545546" MODIFIED="1748527752620" TEXT="jambon fum&#xe9;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748872651011" ID="ID_1636111922" MODIFIED="1748872659271" TEXT="suspendre au dessus d&apos;un feu de camp"/>
+</node>
+<node COLOR="#990000" CREATED="1748522913169" ID="ID_546746962" MODIFIED="1748527752620" TEXT="rosette">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748527834277" FOLDED="true" ID="ID_1425356243" MODIFIED="1748876054003" TEXT="porc">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748523323347" ID="ID_72924627" MODIFIED="1748873644373" TEXT="viande de porc">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748523333526" ID="ID_1013475086" MODIFIED="1748527885657" TEXT="c&#xf4;tes de porc">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1748523341355" ID="ID_425374356" MODIFIED="1748527885657" TEXT="ou r&#xf4;ti + gras ?">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1748523354700" ID="ID_1214557517" MODIFIED="1748527885659" TEXT="ou jambon ?">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1748523362443" ID="ID_287883181" MODIFIED="1748523368650" TEXT="avec la peau ?"/>
+</node>
+<node COLOR="#111111" CREATED="1748873358019" ID="ID_1817407159" MODIFIED="1748873364506" TEXT="ou chair &#xe0; saucisse ?"/>
+<node COLOR="#111111" CREATED="1748873638597" ID="ID_1598906601" MODIFIED="1748873642562" TEXT="ou lardons"/>
+</node>
+<node COLOR="#990000" CREATED="1748527654120" ID="ID_523648775" MODIFIED="1748873371151" TEXT="saucisse">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748522898210" ID="ID_33221789" MODIFIED="1748527885667" TEXT="saucisse fum&#xe9;e">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1748875909081" ID="ID_387833925" MODIFIED="1748875920686" TEXT="saucisse + &#xe0; fumer"/>
+</node>
+<node COLOR="#111111" CREATED="1748523308487" ID="ID_1789356954" MODIFIED="1748527885667" TEXT="saucisse aux herbes">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1748875886849" ID="ID_1914973912" MODIFIED="1748875891459" TEXT="thym"/>
+</node>
+<node COLOR="#111111" CREATED="1748523313789" ID="ID_1514223496" MODIFIED="1748527885667" TEXT="saucisse de loubet">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1748875903416" ID="ID_1517309351" MODIFIED="1748875907106" TEXT="uniquement lootable"/>
+</node>
+<node COLOR="#111111" CREATED="1748523302670" ID="ID_1971729735" MODIFIED="1748527885668" TEXT="merguez">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1748875899678" ID="ID_1684477069" MODIFIED="1748875901222" TEXT="???"/>
+</node>
+<node COLOR="#111111" CREATED="1748522988814" ID="ID_884461472" MODIFIED="1748527885670" TEXT="chorizo">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1748875874112" ID="ID_246401678" MODIFIED="1748875875545" TEXT="piment"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748527837169" FOLDED="true" ID="ID_1324299761" MODIFIED="1748874013581" TEXT="boeuf">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748523600451" ID="ID_1471229582" MODIFIED="1748528063546" TEXT="filet de boeuf">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748522666674" ID="ID_1483936740" MODIFIED="1748527956271" TEXT="viande hach&#xe9;e">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748523141967" ID="ID_1482742426" MODIFIED="1748528045597" TEXT="boulettes de viande">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1748523382424" ID="ID_156209599" MODIFIED="1748528045600" TEXT="steak hach&#xe9;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748527838687" ID="ID_205869337" MODIFIED="1748871044033" TEXT="poulet">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748521819630" ID="ID_472955172" MODIFIED="1748873167320" TEXT="oeuf">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748522815125" ID="ID_692148812" MODIFIED="1748527965318" TEXT="oeufs durs">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1748527966781" ID="ID_954583002" MODIFIED="1748527969349" TEXT="oeufs au plat"/>
+</node>
+<node COLOR="#990000" CREATED="1748522976824" ID="ID_989678333" MODIFIED="1748527934013" TEXT="poulet">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748527910668" FOLDED="true" ID="ID_1793176184" MODIFIED="1748871085314" TEXT="mouton">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748523702656" ID="ID_405874303" MODIFIED="1748528001722" TEXT="viande &#xe0; kebab">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748528004922" ID="ID_1744653125" MODIFIED="1748528006810" TEXT="recette">
+<node COLOR="#111111" CREATED="1748523700960" ID="ID_843909517" MODIFIED="1748528008609" TEXT="mouton">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1748528009844" ID="ID_725045933" MODIFIED="1748528025051" TEXT="c.f. autre carte mentale"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748527846839" FOLDED="true" ID="ID_74722321" MODIFIED="1748873463124" TEXT="lapin">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748523127836" ID="ID_998825816" MODIFIED="1748527853619" TEXT="lapin">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1748527321406" FOLDED="true" ID="ID_786593948" MODIFIED="1748875030775" POSITION="left" TEXT="autres">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1748521942201" ID="ID_246704471" MODIFIED="1748521943367" TEXT="beurre">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748523955810" ID="ID_1266487660" MODIFIED="1748523958369" TEXT="beurre sal&#xe9;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748523031649" ID="ID_676016690" MODIFIED="1748523033229" TEXT="caramel">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748521936412" ID="ID_3804751" MODIFIED="1748521940031" TEXT="chocolat">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748523407020" ID="ID_441209884" MODIFIED="1748523411062" TEXT="chocolat en poudre">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522050642" ID="ID_905153013" MODIFIED="1748522053849" TEXT="compote de pomme">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522246208" ID="ID_1825927868" MODIFIED="1748875025561" TEXT="confiture">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748872534343" ID="ID_940293900" MODIFIED="1748872536370" TEXT="sucre">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748872536604" ID="ID_251528679" MODIFIED="1748875025563" TEXT="fruit">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748872540406" ID="ID_1587055881" MODIFIED="1748872543635" TEXT="lesquels ?"/>
+</node>
+<node COLOR="#990000" CREATED="1748872550336" ID="ID_610537122" MODIFIED="1748872552043" TEXT="attente">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748872552270" ID="ID_1186309103" MODIFIED="1748872554416" TEXT="bloc ?">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748522012619" ID="ID_1592751120" MODIFIED="1748522027061" TEXT="cr&#xe8;me fra&#xee;che">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748527451625" ID="ID_1904387733" MODIFIED="1748527460497" TEXT="curry en poudre">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748521815762" ID="ID_1573683346" MODIFIED="1748875025566" TEXT="farine">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748872384341" ID="ID_258536633" MODIFIED="1748872386555" TEXT="bl&#xe9;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748872388822" ID="ID_499902283" MODIFIED="1748872393015" TEXT="ma&#xef;s">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748872386838" ID="ID_1814445586" MODIFIED="1748872388604" TEXT="seigle">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748523431030" ID="ID_1714637210" MODIFIED="1748523433720" TEXT="gla&#xe7;ons">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748523770859" ID="ID_130601218" MODIFIED="1748523773833" TEXT="ketchup">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522259749" ID="ID_1534202978" MODIFIED="1748875023350" TEXT="k&#xe4;se f&#xfc;r br&#xf6;tchen">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748522270875" ID="ID_1717448377" MODIFIED="1748522277303" TEXT="= fromage r&#xe2;p&#xe9; ?">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748521847979" ID="ID_224438406" MODIFIED="1748875025570" TEXT="levure">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748871129143" ID="ID_506928193" MODIFIED="1748871133070" TEXT="sucre">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748871135999" ID="ID_1900215371" MODIFIED="1748871140169" TEXT="eau (un peu)">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748871140453" ID="ID_1105423923" MODIFIED="1748871142497" TEXT="attente">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748874334914" ID="ID_1325507601" MODIFIED="1748874339536" TEXT="morceaux de pomme">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522083589" ID="ID_268869133" MODIFIED="1748875019627" TEXT="morceaux de sucre">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748437975123" ID="ID_871408285" MODIFIED="1748872239983" TEXT="sucre + distiller + attendre">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748527447932" ID="ID_241169098" MODIFIED="1748527465338" TEXT="piment en poudre">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522054884" ID="ID_1198244697" MODIFIED="1748522057438" TEXT="p&#xe2;te bris&#xe9;e">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522068198" ID="ID_28167543" MODIFIED="1748875021650" TEXT="p&#xe2;te feuillet&#xe9;e">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748523706250" ID="ID_1054726479" MODIFIED="1748523722324" TEXT="sauce blanche">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522278203" ID="ID_1480399900" MODIFIED="1748522304467" TEXT="sauce tomate">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522873695" ID="ID_976572987" MODIFIED="1748522874665" TEXT="sel">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748523952434" ID="ID_1273441964" MODIFIED="1748523955597" TEXT="sirop d&apos;&#xe9;rable">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748436064692" ID="ID_1565703494" MODIFIED="1748874394285" TEXT="entailler les &#xe9;rables">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748436070950" ID="ID_628376743" MODIFIED="1748874394287" TEXT="ins&#xe9;rer un tuyau">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748436077167" ID="ID_216933207" MODIFIED="1748874394288" TEXT="attendre">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748436079746" ID="ID_1633454644" MODIFIED="1748874394290" TEXT="r&#xe9;cup&#xe9;rer la s&#xe8;ve">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748436085699" ID="ID_1778511170" MODIFIED="1748874394291" TEXT="faire chauffer longtemps pour enlever l&apos;eau">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748436100609" ID="ID_1647693447" MODIFIED="1748874394293" TEXT="mettre en bouteille">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748523784183" ID="ID_1997777692" MODIFIED="1748523786818" TEXT="tortillas">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748523667420" ID="ID_690916827" MODIFIED="1748875017430" TEXT="tranches de pain de mie">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748875009763" ID="ID_873366079" MODIFIED="1748875012089" TEXT="pain de mie">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748875012349" ID="ID_161461132" MODIFIED="1748875014944" TEXT="couteau">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748521979533" ID="ID_1278757984" MODIFIED="1748521980846" TEXT="yaourt">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1748527082727" FOLDED="true" ID="ID_1758625927" MODIFIED="1748888373264" POSITION="left" TEXT="liquides">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1748348883160" FOLDED="true" ID="ID_1415851750" MODIFIED="1748527603102" TEXT="bi&#xe8;re">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748436229394" ID="ID_1637623900" MODIFIED="1748523520684" TEXT="recette">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748436231776" ID="ID_1494070855" MODIFIED="1748436238914" TEXT="hydrater les graines d&apos;orge"/>
+<node COLOR="#111111" CREATED="1748436239227" ID="ID_1562745276" MODIFIED="1748436265240" TEXT="attendre"/>
+<node COLOR="#111111" CREATED="1748436265553" ID="ID_40364657" MODIFIED="1748436275719" TEXT="s&#xe9;cher dans un four"/>
+<node COLOR="#111111" CREATED="1748436275936" ID="ID_300677112" MODIFIED="1748436289408" TEXT="&#xe9;craser"/>
+<node COLOR="#111111" CREATED="1748436289667" ID="ID_639297558" MODIFIED="1748436307845" TEXT="m&#xe9;langer &#xe0; de l&apos;eau chaude"/>
+<node COLOR="#111111" CREATED="1748436282323" ID="ID_1163514878" MODIFIED="1748436357447" TEXT="filtrer"/>
+<node COLOR="#111111" CREATED="1748436358103" ID="ID_530330378" MODIFIED="1748518458891" TEXT="ajouter des levures"/>
+<node COLOR="#111111" CREATED="1748436363072" ID="ID_1946311701" MODIFIED="1748436365888" TEXT="attendre"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748523033482" FOLDED="true" ID="ID_738855974" MODIFIED="1748873429000" TEXT="cidre">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748436408417" ID="ID_189451631" MODIFIED="1748527630743" TEXT="recette">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748436420092" ID="ID_827428360" MODIFIED="1748436714594" TEXT="Broyer des pommes"/>
+<node COLOR="#111111" CREATED="1748436715219" ID="ID_824568824" MODIFIED="1748436745321" TEXT="attente courte"/>
+<node COLOR="#111111" CREATED="1748436783151" ID="ID_1572348179" MODIFIED="1748436790279" TEXT="Presser les morceaux"/>
+<node COLOR="#111111" CREATED="1748436791953" ID="ID_1433357972" MODIFIED="1748436822325" TEXT="Attendre"/>
+<node COLOR="#111111" CREATED="1748436822752" ID="ID_1631092951" MODIFIED="1748436825257" TEXT="Filtrer"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748522852619" ID="ID_183740715" MODIFIED="1748522853624" TEXT="eau">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748521991744" FOLDED="true" ID="ID_1015327130" MODIFIED="1748873394562" TEXT="huile">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748872097439" ID="ID_1431424927" MODIFIED="1748872100874" TEXT="de tournesol">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1748872101176" ID="ID_1171260862" MODIFIED="1748872103503" TEXT="d&apos;olive">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748523422111" ID="ID_1022825842" MODIFIED="1748523425259" TEXT="jus d&apos;orange">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748523411671" ID="ID_902824906" MODIFIED="1748523421875" TEXT="jus de pomme">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748521862256" ID="ID_1696594093" MODIFIED="1748521864690" TEXT="lait de ch&#xe8;vre">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748523624723" ID="ID_137771600" MODIFIED="1748523627151" TEXT="lait de coco">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748521834024" ID="ID_1877525709" MODIFIED="1748527564985" TEXT="lait de vache">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748522359312" ID="ID_637594736" MODIFIED="1748522360305" TEXT="miel">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1748348889119" FOLDED="true" ID="ID_956151010" MODIFIED="1748873432783" TEXT="rhum">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748436408417" ID="ID_379970684" MODIFIED="1748523507604" TEXT="recette">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748436420092" ID="ID_1604523330" MODIFIED="1748436534697" TEXT="broyer de la canne &#xe0; sucre"/>
+<node COLOR="#111111" CREATED="1748436535124" ID="ID_1986078649" MODIFIED="1748436555120" TEXT="presser plusieurs fois"/>
+<node COLOR="#111111" CREATED="1748436555361" ID="ID_1205870698" MODIFIED="1748436585179" TEXT="m&#xe9;langer avec eau et levures"/>
+<node COLOR="#111111" CREATED="1748436585486" ID="ID_833561341" MODIFIED="1748436591781" TEXT="attendre (pas trop long)"/>
+<node COLOR="#111111" CREATED="1748436623752" ID="ID_544530364" MODIFIED="1748436632393" TEXT="distiller"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1748348885583" FOLDED="true" ID="ID_1515119368" MODIFIED="1748873434434" TEXT="vin">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1748436408417" ID="ID_1977364227" MODIFIED="1748523520688" TEXT="recette">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1748436420092" ID="ID_861951840" MODIFIED="1748436725070" TEXT="broyer du raisin"/>
+<node COLOR="#111111" CREATED="1748436726494" ID="ID_26387772" MODIFIED="1748436729715" TEXT="attente courte"/>
+<node COLOR="#111111" CREATED="1748436730135" ID="ID_1317519193" MODIFIED="1748436736202" TEXT="presser le jus"/>
+<node COLOR="#111111" CREATED="1748436441424" ID="ID_396394592" MODIFIED="1748436452454" TEXT="ajouter des levures"/>
+<node COLOR="#111111" CREATED="1748436453022" ID="ID_816299422" MODIFIED="1748436459761" TEXT="chauffer"/>
+<node COLOR="#111111" CREATED="1748436460068" ID="ID_1147824541" MODIFIED="1748436598147" TEXT="attendre (long)"/>
+</node>
+</node>
+</node>
+</node>
+</map>
