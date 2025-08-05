@@ -1,0 +1,186 @@
+/*Corps de texte */
+body {
+  background-color: rgb(0,15,50);
+}
+
+
+
+
+
+
+
+
+
+/*Sections */
+section.big-section {
+  width: 90%;
+
+  margin-top: 0px;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+
+  padding-left: 20px;
+  padding-right: 20px;
+
+  background-color: rgb(30,50,100);
+
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(0,0,0)
+}
+
+section.little-section {
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+
+  padding-left: 20px;
+  padding-right: 20px;
+
+  background-color: rgb(65,90,150);
+
+  border-width: 1.5px;
+  border-style: solid;
+  border-color: rgb(0,0,0)
+}
+
+section.space {
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+section.title {
+  width: 100%;
+
+  min-height: 200px;
+  height: auto;
+
+  height: auto;
+  margin-top: 0px;
+  margin-bottom: 30px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+
+
+
+/* Titres*/
+h1 {
+  font-family: "Arial", cursive, sans-serif;
+  font-size: 70px;
+  font-weight: bolder;
+
+  color: rgb(255,255,0);
+
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: 4px;
+
+  text-align: center;
+}
+
+h2 {
+  font-family: "MV Boli", cursive, sans-serif;
+  font-size: 28px;
+  color: rgb(0, 180,60);
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: 2px;
+  font-weight:bold;
+}
+
+h3 {
+  font-family: "MV Boli", cursive, sans-serif;
+  font-size: 20px;
+  color: rgb(15,80,0);
+}
+
+h4 {
+  font-family: "MV Boli", cursive, sans-serif;
+  font-size: 16px;
+  color: rgb(0, 0, 0);
+}
+h4.h4-précision {
+  font-family: "MV Boli", cursive, sans-serif;
+  font-size: 16px;
+  color: rgb(0, 0, 0);
+}
+
+
+
+/*Paragraphes*/
+p.warning {
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: 2px;
+
+  text-align: right;
+
+  font-weight: bold;
+
+  font-family: "Arial", cursive, sans-serif;
+  font-size: 20px;
+
+  color: rgb(255,255,255);
+}
+
+p.explaining-big {
+  font-family: "Segoe Print", cursive, sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  color: rgb(0,150,150);
+}
+p.explaining-little {
+  font-family: "Segoe Print", cursive, sans-serif;
+  font-size: 16px;
+  color: rgb(0,40,40);
+  font-weight: normal;
+}
+p.explaining-kanban {
+  font-family: "Segoe Print", cursive, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(255,130,70);
+  font-weight: bold;
+  padding-left: 90px;
+}
+
+
+
+
+
+/* Liens de téléchargement */
+ul li a[download], ul li a[download]:hover {
+  font-family: "Arial", cursive, sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  color: rgb(120, 0, 0);
+}
+
+/* Liens web classiques */
+a:not([download]), a:not([download]):hover {
+  font-family: "Arial", cursive, sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  color: rgb(120, 0, 0);
+}
+
+
+
+
+
+/*Listes*/
+ul {
+  list-style-type: square;
+  padding-left: 80px;
+}
